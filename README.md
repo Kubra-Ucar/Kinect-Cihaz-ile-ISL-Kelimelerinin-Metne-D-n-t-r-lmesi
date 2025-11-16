@@ -38,7 +38,4 @@ Kinect’in kemik eklem noktalarını (joints) yüksek doğrulukla algılayabilm
 4. Şartlar sağlandığında ilgili sözcük ekrana yazdırılır.  
 5. Aynı sözcüğün sürekli tekrar edilmesini engellemek için **zaman aralığı filtresi (ör. 3 saniye cooldown)** uygulanır.  
 
----
-
-## 📁 Proje Dosya Yapısı (Önerilen)
 
