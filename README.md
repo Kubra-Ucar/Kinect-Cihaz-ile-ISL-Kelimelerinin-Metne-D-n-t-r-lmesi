@@ -1,0 +1,1 @@
+# Kinect-Cihaz-ile-ISL-Kelimelerinin-Metne-D-n-t-r-lmesi
