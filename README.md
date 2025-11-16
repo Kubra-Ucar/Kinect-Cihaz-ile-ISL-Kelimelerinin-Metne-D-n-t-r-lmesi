@@ -11,7 +11,7 @@ Kinect’in kemik eklem noktalarını (joints) yüksek doğrulukla algılayabilm
 - Uluslararası İşaret Dili (ISL) sözcüklerinin Kinect v2 ile gerçek zamanlı olarak algılanması  
 - İşaret dili bilmeyen bireyler ile işaret dili kullanıcıları arasında iletişim kolaylığı sağlanması  
 - Kinect’in hazır fonksiyonlarını kullanarak hızlı ve düşük maliyetli bir işaret dili çeviri sistemi sunmak  
-- Tanımlanan sözcüklere karşılık gelen metni ekrana yazdırmak ve (isteğe bağlı) sesli çıktı oluşturmak  
+- Tanımlanan sözcüklere karşılık gelen metni ekrana yazdırmak  
 
 ---
 
@@ -22,7 +22,6 @@ Kinect’in kemik eklem noktalarını (joints) yüksek doğrulukla algılayabilm
 - **C# / WPF**
 - **Body Tracking (El, kol, bilek, omuz eklemleri)**
 - **Gesture / Pose tanımlayıcı fonksiyonlar**  
-- Opsiyonel: Text-to-Speech (TTS) için `System.Speech` kütüphanesi
 
 ---
 
@@ -38,7 +37,6 @@ Kinect’in kemik eklem noktalarını (joints) yüksek doğrulukla algılayabilm
    - Kolun yukarı-aşağı pozisyonu  
 4. Şartlar sağlandığında ilgili sözcük ekrana yazdırılır.  
 5. Aynı sözcüğün sürekli tekrar edilmesini engellemek için **zaman aralığı filtresi (ör. 3 saniye cooldown)** uygulanır.  
-6. İstenirse sözcük **sesli olarak da telaffuz edilir**.
 
 ---
 
